@@ -2,18 +2,10 @@
 
 Welcome to my GitHub profile!
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Kshitij+Jaiswal;Computer+Science+Undergraduate;Backend+Developer;App+Developer;Always+Learning+🚀" />
+</p>
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&width=900&height=60&lines=Hi+👋,+I'm+Kshitij+Jaiswal;Computer+Science+Undergraduate;Backend+Developer+⚙️;App+Developer+📱;Always+Learning+🚀" 
-  alt="Typing SVG" 
-/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:8E2DE2&height=120&section=header"/>
-
-</div>
 
 
 ## Skills
