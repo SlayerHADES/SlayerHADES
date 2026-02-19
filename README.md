@@ -3,7 +3,11 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2b0f2f,100:000000&height=120&section=header&animation=fadeIn"
 />
 
-<h1 align="center">Hi 👋 I'm Kshitij Jaiswal</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=1200&color=FF4ECD&center=true&vCenter=true&width=850&lines=Hi,+I'm+Kshitij+Jaiswal" 
+  />
+</p>
 
 <p align="center">
   <img
