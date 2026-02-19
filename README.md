@@ -2,11 +2,10 @@
 
 Welcome to my GitHub profile!
 
-<div align="center">
- <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
-  <img class="image" src="header.svg" alt="Click to see the source">
- </a>
-</div>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4500&pause=500&color=FF7A18&width=700&lines=Hi!+Kshitij+Jaiswal+Here!;Computer+Science+Undergrad;Backend+%26+AppDev"
+  alt="Typing SVG"
+/>
 
 ## Skills
 
