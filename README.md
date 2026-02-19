@@ -15,11 +15,10 @@
 
 ##  About Me
 
-<p align="center">
+<p align="center" style="color:#FF9AEF; font-size:16px;">
 Passionate Computer Science undergraduate focused on backend systems, scalable architectures, and app development.  
 I enjoy building efficient solutions and continuously improving my technical depth.
 </p>
-
 ---
 
 ##  Tech Stack
