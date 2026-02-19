@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center" style="color:#FF4ECD;">⚡ About Me</h2>
+<h2 align="center" style="color:#FF4ECD;"> About Me</h2>
 
 <p align="center" style="color:#FF9AEF; font-size:16px;">
 Passionate Computer Science undergraduate focused on backend systems, scalable architectures, and app development.  
@@ -30,8 +30,21 @@ I enjoy building efficient solutions and continuously improving my technical dep
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,nodejs,docker,aws,postgres,mysql,git,github,linux,androidstudio,pycharm,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" title="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" />
 </p>
+
 
 ---
 
@@ -50,10 +63,6 @@ Scalable backend systems • Distributed architecture • Performance optimizati
 ##  GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SlayerHADES&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
-    height="165"
-  />
   <img 
     src="https://streak-stats.demolab.com?user=SlayerHADES&theme=radical&hide_border=true"
     height="165"
