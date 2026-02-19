@@ -3,15 +3,17 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=120&section=header&animation=fadeIn"
 />
 
+<h1 align="center">Hi 👋 I'm Kshitij Jaiswal</h1>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=900&color=00F5A0&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Kshitij+Jaiswal;Computer+Science+Undergraduate;Backend+Developer;App+Developer;Building+Scalable+Solutions;Always+Learning+🚀"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=00F5A0&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Backend+Developer;App+Developer;Building+Scalable+Solutions;Always+Learning"
   />
 </p>
 
 ---
 
-## ⚡ About Me
+##  About Me
 
 <p align="center">
 Passionate Computer Science undergraduate focused on backend systems, scalable architectures, and app development.  
@@ -20,7 +22,7 @@ I enjoy building efficient solutions and continuously improving my technical dep
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,nodejs,docker,aws,postgres,mysql,git,github,linux,androidstudio,pycharm,vscode&theme=dark" />
@@ -28,7 +30,7 @@ I enjoy building efficient solutions and continuously improving my technical dep
 
 ---
 
-## 🚀 Currently Exploring
+##  Currently Exploring
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=redis,kubernetes,nginx,graphql,kafka&theme=dark" />
@@ -40,16 +42,24 @@ Scalable backend systems • Distributed architecture • Performance optimizati
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SlayerHADES&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlayerHADES&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=SlayerHADES&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+##  Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SlayerHADES/SlayerHADES/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kshitij-jaiswal-83a5ba246/">
