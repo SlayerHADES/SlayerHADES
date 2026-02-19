@@ -6,9 +6,8 @@
 <h1 align="center">Hi 👋 I'm Kshitij Jaiswal</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=00F5A0&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Backend+Developer;App+Developer;Building+Scalable+Solutions;Always+Learning"
-  />
+Passionate Computer Science undergraduate focused on backend systems, scalable architectures, and app development.  
+I enjoy building efficient solutions and continuously improving my technical depth.
 </p>
 
 ---
