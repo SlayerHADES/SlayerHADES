@@ -50,8 +50,14 @@ Scalable backend systems • Distributed architecture • Performance optimizati
 ##  GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlayerHADES&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=SlayerHADES&theme=radical&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SlayerHADES&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=SlayerHADES&theme=radical&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
