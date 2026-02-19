@@ -1,22 +1,20 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2b0f2f,100:000000&height=120&section=header&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2b0f2f,100:000000&height=80&section=header"
 />
 
-<p align="center">
+<p align="center" style="margin-top:-10px; margin-bottom:0px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=50&duration=3000&pause=1200&color=C026D3&center=true&vCenter=true&width=950&lines=Kshitij+Jaiswal" 
+    src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=46&duration=3000&pause=1000&color=C026D3&center=true&vCenter=true&width=550&height=55&lines=Kshitij+Jaiswal" 
   />
 </p>
 
-
-
-
-<p align="center">
+<p align="center" style="margin-top:-8px;">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=FF4ECD&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Backend+Developer;App+Developer;Building+Scalable+Solutions;Always+Learning"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=FF4ECD&center=true&vCenter=true&width=650&height=40&lines=Computer+Science+Undergraduate;Backend+Developer;App+Developer;Always+Learning"
   />
 </p>
+
 
 ---
 
