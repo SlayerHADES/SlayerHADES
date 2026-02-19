@@ -2,10 +2,8 @@
 
 Welcome to my GitHub profile!
 
-<h1 align="center">Hi 👋 I'm Kshitij Jaiswal</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00F5A0&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Backend+Developer+⚙️;App+Developer+📱;Building+Scalable+Solutions;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=FF4ECD&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Backend+Developer;App+Developer;Passionate+Problem+Solver;Open+Source+Enthusiast" />
 </p>
 
 
