@@ -1,23 +1,25 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=120&section=header&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2b0f2f,100:000000&height=120&section=header&animation=fadeIn"
 />
 
 <h1 align="center">Hi 👋 I'm Kshitij Jaiswal</h1>
 
 <p align="center">
-Passionate Computer Science undergraduate focused on backend systems, scalable architectures, and app development.  
-I enjoy building efficient solutions and continuously improving my technical depth.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=FF4ECD&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Backend+Developer;App+Developer;Building+Scalable+Solutions;Always+Learning"
+  />
 </p>
 
 ---
 
-##  About Me
+<h2 align="center" style="color:#FF4ECD;">⚡ About Me</h2>
 
 <p align="center" style="color:#FF9AEF; font-size:16px;">
 Passionate Computer Science undergraduate focused on backend systems, scalable architectures, and app development.  
 I enjoy building efficient solutions and continuously improving my technical depth.
 </p>
+
 ---
 
 ##  Tech Stack
@@ -43,8 +45,8 @@ Scalable backend systems • Distributed architecture • Performance optimizati
 ##  GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlayerHADES&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=SlayerHADES&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SlayerHADES&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=SlayerHADES&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -62,12 +64,12 @@ Scalable backend systems • Distributed architecture • Performance optimizati
 <p align="center">
   <a href="https://www.linkedin.com/in/kshitij-jaiswal-83a5ba246/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-FF4ECD?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
 </p>
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b0f2f,100:1a1a1a&height=120&section=footer"
 />
