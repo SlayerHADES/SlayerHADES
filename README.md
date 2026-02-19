@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile!
 
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=FF4ECD&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;Backend+Developer;App+Developer;Passionate+Problem+Solver;Open+Source+Enthusiast" />
 </p>
 
