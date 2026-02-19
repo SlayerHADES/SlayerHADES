@@ -5,9 +5,10 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=38&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi,+I'm+Kshitij+Jaiswal" 
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Kshitij+Jaiswal" 
   />
 </p>
+
 
 
 
