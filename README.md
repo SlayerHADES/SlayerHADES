@@ -74,7 +74,7 @@ Scalable backend systems • Distributed architecture • Performance optimizati
 ##  Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SlayerHADES/SlayerHADES/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SlayerHADES/SlayerHADES/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
